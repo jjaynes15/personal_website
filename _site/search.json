@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "teaching.html#university-of-nevada-las-vegas",
+    "href": "teaching.html#university-of-nevada-las-vegas",
     "title": "Jessica Jaynes",
-    "section": "",
-    "text": "My CV"
+    "section": "University of Nevada, Las Vegas",
+    "text": "University of Nevada, Las Vegas\n\nUndergraduate Courses\n\n\nGraduate Courses"
+  },
+  {
+    "objectID": "research.html#grants",
+    "href": "research.html#grants",
+    "title": "Jessica Jaynes",
+    "section": "Grants",
+    "text": "Grants"
+  },
+  {
+    "objectID": "research.html#student-research",
+    "href": "research.html#student-research",
+    "title": "Jessica Jaynes",
+    "section": "Student Research",
+    "text": "Student Research\nUndergraduate students"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Table.html",
+    "href": "Table.html",
+    "title": "Table",
+    "section": "",
+    "text": "Col1\nCol2\nCol3"
   }
 ]

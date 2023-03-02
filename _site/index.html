@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -110,19 +109,44 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="jaynes.png" class="about-image
+  rounded " style="width: 20em;">
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Jessica Jaynes</h1>
+</div>
+<div class="quarto-title-meta">
+  </div>
+</header>
+    <div class="about-links">
+  <a href="https://scholar.google.com/citations?user=36l_xeQAAAAJ&amp;hl=en&amp;oi=ao" class="about-link">
+    <i class="bi bi-google"></i>
+     <span class="about-link-text">Google Scholar</span>
+  </a>
+  <a href="https://www.linkedin.com/in/jessica-jaynes-655679185/" class="about-link">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="mailto:jjaynes@fullerton.edu" class="about-link">
+    <i class="bi bi-inbox"></i>
+     <span class="about-link-text">Email</span>
+  </a>
+  <a href="/docs/CV/4.0 Portfolio Vita.pdf" class="about-link">
+     <span class="about-link-text">CV</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<!---
+[My CV](/docs/CV/4.0 Portfolio Vita.pdf)
+--->
 
 
-
-<section id="my-journey" class="level2">
-<h2 class="anchored" data-anchor-id="my-journey">My journey</h2>
-<p><a href="https://github.com/jjaynes15/"><img src="https://avatars.githubusercontent.com/u/85963819?s=400&amp;u=9e11f68dd223af659d6f29d590695c95b3dcab1b&amp;v=4" style="max-width:25%;min-width:40px;float:right;" alt="Github repo"></a></p>
-<p><a href="./docs/CV/4.0 Portfolio Vita.pdf">My CV</a></p>
-
-
-</section>
-
-</main> <!-- /main -->
+</main></div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -143,13 +167,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

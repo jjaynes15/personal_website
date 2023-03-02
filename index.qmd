@@ -1,8 +1,23 @@
+---
+title: "Jessica Jaynes"
+image: jaynes.png
+about:
+  template: trestles
+  links:
+    - text: Google Scholar
+      icon: google
+      url: "https://scholar.google.com/citations?user=36l_xeQAAAAJ&hl=en&oi=ao"
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/jessica-jaynes-655679185/"
+    - text: Email
+      icon: inbox
+      url: "mailto:jjaynes@fullerton.edu"
+    - text: CV
+      url: "/docs/CV/4.0 Portfolio Vita.pdf"
+---
 
-## My journey
 
-
-[<img src="https://avatars.githubusercontent.com/u/85963819?s=400&u=9e11f68dd223af659d6f29d590695c95b3dcab1b&v=4" style="max-width:25%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/jjaynes15/)
-
-
+<!---
 [My CV](/docs/CV/4.0 Portfolio Vita.pdf)
+--->
