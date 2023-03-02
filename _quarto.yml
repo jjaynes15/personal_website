@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Jessica Jaynes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right: 
+      - icon: github
+        href: https://github.com/jjaynes15
+        aria-label: GitHub
+  page-footer:
+    right: "&copy; 2023, Jessica Jaynes"
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: false
+
+freeze: auto
+
