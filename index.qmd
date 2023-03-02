@@ -6,13 +6,3 @@
 
 
 [My CV](/docs/CV/4.0 Portfolio Vita.pdf)
-
-Hello 
-
-1. HW1
-2. HW2
-3. HW3 
-
-$$
-x^2
-$$
