@@ -14,7 +14,7 @@ about:
       icon: inbox
       url: "mailto:jjaynes@fullerton.edu"
     - text: CV
-      url: "/docs/CV/4.0 Portfolio Vita.pdf"
+      url: "/docs/CV/Jaynes-cv.pdf"
 ---
 
 
