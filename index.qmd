@@ -13,11 +13,8 @@ about:
     - text: Email
       icon: inbox
       url: "mailto:jjaynes@fullerton.edu"
-    - text: CV
-      url: "/docs/CV/Jaynes-cv.pdf"
 ---
 
 
-<!---
-[My CV](/docs/CV/4.0 Portfolio Vita.pdf)
---->
+
+[My CV](/docs/CV/Jaynes-cv.pdf "CV")
