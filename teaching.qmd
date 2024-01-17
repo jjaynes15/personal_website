@@ -1,7 +1,14 @@
-## Coming soon
+## More coming soon
+
+Development of Innovative Instruction - I have had the opportunity to be involved in the development and coordination of various statistics and data science courses. In particular, I co-lead the redesign of an introductory statistics course incorporating simulation-based methods and active learning techniques. Moreover, I co-lead the development of a new course on the foundations of data science, which devises a robust pedagogical approach for introducing data science in a lower-division undergraduate course. Through engagement with these types of curricular activities and pedagogical revision at CSUF we can ensure all students in these courses receive an education that facilitates critical thinking and provides applications that set the stage for their careers. Furthermore, these curricular changes were designed such that they are sustainable for instructors to effectively implement overtime. To facilitate such curricular enhancements, I have had the opportunity to engage numerous instructors at both CSUF and various local city colleges in various professional development activities. 
+
+This research will be conducted closely with both undergraduate and graduate students from CSUF and will have a substantial impact on their education, making them competitive in the workforce. 
 
 <!--
 ## California State University, Fullerton
+
+Honored to be a part of CSUF Mathematics Department:
+https://news.fullerton.edu/2021/11/mathematics-award-from-american-math-society-recognizes-csuf-math-department/#:~:text=The%20American%20Math%20Society%20has,and%20graduating%20students%20from%20underrepresented
 
 ### Undergraduate Courses
 

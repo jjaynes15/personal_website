@@ -1,6 +1,6 @@
 ---
 title: "Jessica Jaynes"
-image: jaynes.png
+image: jaynes1.png
 about:
   template: trestles
   links:
@@ -14,11 +14,11 @@ about:
       icon: inbox
       url: "mailto:jjaynes@fullerton.edu"
 ---
+Welcome!
 
-
-I am an Associate Professor of Statistics and Mathematics at California State University, Fullerton (CSUF). As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. For more information take a look at my 
+I am an Associate Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my 
 [CV](/docs/CV/Jaynes-cv.pdf "CV").
 
-Development of Innovative Instruction - I have had the opportunity to be involved in the development and coordination of various statistics and data science courses. In particular, I co-lead the redesign of an introductory statistics course incorporating simulation-based methods and active learning techniques. Moreover, I co-lead the development of a new course on the foundations of data science, which devises a robust pedagogical approach for introducing data science in a lower-division undergraduate course. Through engagement with these types of curricular activities and pedagogical revision at CSUF we can ensure all students in these courses receive an education that facilitates critical thinking and provides applications that set the stage for their careers. Furthermore, these curricular changes were designed such that they are sustainable for instructors to effectively implement overtime. To facilitate such curricular enhancements, I have had the opportunity to engage numerous instructors at both CSUF and various local city colleges in various professional development activities. 
 
-Notable Grants from National Agencies - Currently, I am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College. Additionally, I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College. Additionally, I was PI on the subaward for STEM Pathways grant from the Department of Education through Los Angeles City College, an Undergraduate Summer Research Program at CSUF for underrepresented minority students.
+
+

@@ -1,10 +1,52 @@
 [
   {
+    "objectID": "Table.html",
+    "href": "Table.html",
+    "title": "Table",
+    "section": "",
+    "text": "Col1\nCol2\nCol3"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jessica Jaynes",
     "section": "",
-    "text": "I am an Associate Professor of Statistics and Mathematics at California State University, Fullerton (CSUF). As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. For more information take a look at my CV.\nDevelopment of Innovative Instruction - I have had the opportunity to be involved in the development and coordination of various statistics and data science courses. In particular, I co-lead the redesign of an introductory statistics course incorporating simulation-based methods and active learning techniques. Moreover, I co-lead the development of a new course on the foundations of data science, which devises a robust pedagogical approach for introducing data science in a lower-division undergraduate course. Through engagement with these types of curricular activities and pedagogical revision at CSUF we can ensure all students in these courses receive an education that facilitates critical thinking and provides applications that set the stage for their careers. Furthermore, these curricular changes were designed such that they are sustainable for instructors to effectively implement overtime. To facilitate such curricular enhancements, I have had the opportunity to engage numerous instructors at both CSUF and various local city colleges in various professional development activities.\nNotable Grants from National Agencies - Currently, I am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College. Additionally, I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College. Additionally, I was PI on the subaward for STEM Pathways grant from the Department of Education through Los Angeles City College, an Undergraduate Summer Research Program at CSUF for underrepresented minority students."
+    "text": "Welcome!\nI am an Associate Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my CV."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Jessica Jaynes",
+    "section": "",
+    "text": "Development of Innovative Instruction - I have had the opportunity to be involved in the development and coordination of various statistics and data science courses. In particular, I co-lead the redesign of an introductory statistics course incorporating simulation-based methods and active learning techniques. Moreover, I co-lead the development of a new course on the foundations of data science, which devises a robust pedagogical approach for introducing data science in a lower-division undergraduate course. Through engagement with these types of curricular activities and pedagogical revision at CSUF we can ensure all students in these courses receive an education that facilitates critical thinking and provides applications that set the stage for their careers. Furthermore, these curricular changes were designed such that they are sustainable for instructors to effectively implement overtime. To facilitate such curricular enhancements, I have had the opportunity to engage numerous instructors at both CSUF and various local city colleges in various professional development activities.\nThis research will be conducted closely with both undergraduate and graduate students from CSUF and will have a substantial impact on their education, making them competitive in the workforce."
+  },
+  {
+    "objectID": "teaching.html#more-coming-soon",
+    "href": "teaching.html#more-coming-soon",
+    "title": "Jessica Jaynes",
+    "section": "",
+    "text": "Development of Innovative Instruction - I have had the opportunity to be involved in the development and coordination of various statistics and data science courses. In particular, I co-lead the redesign of an introductory statistics course incorporating simulation-based methods and active learning techniques. Moreover, I co-lead the development of a new course on the foundations of data science, which devises a robust pedagogical approach for introducing data science in a lower-division undergraduate course. Through engagement with these types of curricular activities and pedagogical revision at CSUF we can ensure all students in these courses receive an education that facilitates critical thinking and provides applications that set the stage for their careers. Furthermore, these curricular changes were designed such that they are sustainable for instructors to effectively implement overtime. To facilitate such curricular enhancements, I have had the opportunity to engage numerous instructors at both CSUF and various local city colleges in various professional development activities.\nThis research will be conducted closely with both undergraduate and graduate students from CSUF and will have a substantial impact on their education, making them competitive in the workforce."
+  },
+  {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Grants",
+    "section": "",
+    "text": "As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants\n\n\n\n\nI am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.\nCheck out Project PIPE-LINE in the news:\n\nCA Learning Lab Article\nCSUF News Article\n\n\n\n\n\n\n\nI am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
+  },
+  {
+    "objectID": "grants.html#california-learning-lab-project-pipe-line",
+    "href": "grants.html#california-learning-lab-project-pipe-line",
+    "title": "Grants",
+    "section": "",
+    "text": "I am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.\nCheck out Project PIPE-LINE in the news:\n\nCA Learning Lab Article\nCSUF News Article"
+  },
+  {
+    "objectID": "grants.html#national-science-foundation---the-socal-data-science-program",
+    "href": "grants.html#national-science-foundation---the-socal-data-science-program",
+    "title": "Grants",
+    "section": "",
+    "text": "I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
   },
   {
     "objectID": "about.html",
@@ -12,12 +54,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Table.html",
-    "href": "Table.html",
-    "title": "Table",
-    "section": "",
-    "text": "Col1\nCol2\nCol3"
   }
 ]

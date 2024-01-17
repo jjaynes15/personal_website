@@ -1,0 +1,52 @@
+# Grants 
+
+As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants
+
+## California Learning Lab: Project PIPE-LINE 
+### [Project PIPE-LINE Website](https://sites.google.com/fullerton.edu/project-pipeline)
+I am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.
+
+Check out Project PIPE-LINE in the news:
+
+* [CA Learning Lab Article](https://calearninglab.org/project/programs-for-institutional-pathway-engagement-accelerating-infrastructure-and-education-pipe-line/)
+
+* [CSUF News Article](https://www.stat.uci.edu/socal-data-science-program-to-expand-its-reach-with-1-3m-grant/)
+
+
+## National Science Foundation - The SoCal Data Science Program
+### [SoCal Data Science Website](https://www.socaldata.science/home)
+I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College. 
+
+Check out The SoCal Data Science Program in the news:
+
+* [CSUF News Aricle](https://news.fullerton.edu/2021/09/grant-opens-doors-for-students-to-enter-growing-field-of-data-science/)
+
+* [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2123380&HistoricalAwards=false)
+
+
+
+
+<!--
+- I was PI on the subaward for STEM Pathways grant from the Department of Education through Los Angeles City College, an Undergraduate Summer Research Program at CSUF for underrepresented minority students.
+
+
+# Research: Orthogonal Array Composite Designs (OACDs)
+In general, my research agenda is centered around two areas of statistical design of experiments: fractional factorial designs (FFDs) and orthogonal array composite designs (OACDs). FFDs use an irreplaceable low-cost design methodology with a wide array of applications. My research in this area is focused on the development of new methodologies for constructing efficient FFDs. An OACD is a novel class of designs developed by my collaborators and I. OACDs build upon my research in FFDs by combining two- and three-level FFDs. OACDs offer numerous advantages to researchers in various disciplines, such as providing trade-offs between estimation efficiency and run size economy, stronger initial designs, and more in-depth analyses, as well as ease of use. 
+
+
+
+Outreach:
+https://physicalsciences.ucla.edu/sws-workshop-celebrates-women-in-statistics-and-data-science/
+
+2020 UCLA Commencement Speaker:
+http://statistics.ucla.edu/events/past-commencements/commencement-2020/
+
+
+## Student Research
+UCI ICS 
+https://summeracademy.ics.uci.edu/
+
+https://uci-data-academy.netlify.app/
+
+[Undergraduate students](/Table.qmd)
+-->
