@@ -9,8 +9,6 @@ website:
         text: About
       - href: grants.qmd
         text: Grants
-      - href: teaching.qmd
-        text: Teaching
     right: 
       - icon: github
         href: https://github.com/jjaynes15
