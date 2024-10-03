@@ -2,6 +2,21 @@
 
 As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants
 
+
+## National Institute of Health: Project EAGER
+
+Check out Project EAGER in the news:
+
+* [EAGER CSUF News Article](https://news.fullerton.edu/2024/09/1-5-million-grant-project-prepares-students-for-careers-in-genomics/)
+* [NIH Award](https://reporter.nih.gov/search/2mI_b2DHXEq0KYfTT9dV-A/project-details/10879532)
+
+## California State University Chancellor's Office: Project IDEEM
+### [Project IDEEM Website](https://sites.google.com/fullerton.edu/ideem2024/)
+
+Check out Project IDEEM in the news:
+
+* [IDEEM CSUF Spotlight Article](https://news.fullerton.edu/spotlight/csuf-faculty-help-elementary-teachers-infuse-data-science-into-their-classrooms/)
+
 ## California Learning Lab: Project PIPE-LINE 
 ### [Project PIPE-LINE Website](https://sites.google.com/fullerton.edu/project-pipeline)
 I am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.
