@@ -2,6 +2,12 @@
 
 As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants
 
+## National Science Foundation: INSPIRE
+
+Check out Project INSPIRE in the news:
+
+* [INSPIRE CSUF News Article](https://news.fullerton.edu/2024/11/csufs-new-ai-hub-to-prepare-students-for-careers-in-emerging-technology/)
+* [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2433391&HistoricalAwards=false)
 
 ## National Institute of Health: Project EAGER
 

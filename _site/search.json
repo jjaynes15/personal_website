@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "Table.html",
-    "href": "Table.html",
-    "title": "Table",
-    "section": "",
-    "text": "Col1\nCol2\nCol3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessica Jaynes",
-    "section": "",
-    "text": "Welcome!\nI am an Associate Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my CV."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Jessica Jaynes",
@@ -32,7 +18,14 @@
     "href": "grants.html",
     "title": "Grants",
     "section": "",
-    "text": "As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants\n\n\nCheck out Project EAGER in the news:\n\nEAGER CSUF News Article\nNIH Award\n\n\n\n\n\n\nCheck out Project IDEEM in the news:\n\nIDEEM CSUF Spotlight Article\n\n\n\n\n\n\n\nI am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.\nCheck out Project PIPE-LINE in the news:\n\nCA Learning Lab Article\nCSUF News Article\n\n\n\n\n\n\n\nI am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
+    "text": "As part of my passion for facilitating undergraduate research opportunities, I am PI/co-PI on the following data science training grants\n\n\nCheck out Project INSPIRE in the news:\n\nINSPIRE CSUF News Article\nNSF Award\n\n\n\n\nCheck out Project EAGER in the news:\n\nEAGER CSUF News Article\nNIH Award\n\n\n\n\n\n\nCheck out Project IDEEM in the news:\n\nIDEEM CSUF Spotlight Article\n\n\n\n\n\n\n\nI am PI of a Pathways Development grant from the California Learning Lab Grand Challenge: Building Critical Mass for Data Science, entitled Project PIPE-LINE (Programs for Institutional Pathway Engagement – acceLerating INfrastructure and Education), in collaboration with University of California Irvine, Riverside City College, and Rio Hondo College.\nCheck out Project PIPE-LINE in the news:\n\nCA Learning Lab Article\nCSUF News Article\n\n\n\n\n\n\n\nI am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
+  },
+  {
+    "objectID": "grants.html#national-science-foundation-inspire",
+    "href": "grants.html#national-science-foundation-inspire",
+    "title": "Grants",
+    "section": "",
+    "text": "Check out Project INSPIRE in the news:\n\nINSPIRE CSUF News Article\nNSF Award"
   },
   {
     "objectID": "grants.html#national-institute-of-health-project-eager",
@@ -63,10 +56,24 @@
     "text": "I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessica Jaynes",
+    "section": "",
+    "text": "Welcome!\nI am an Associate Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my CV."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Table.html",
+    "href": "Table.html",
+    "title": "Table",
+    "section": "",
+    "text": "Col1\nCol2\nCol3"
   }
 ]
