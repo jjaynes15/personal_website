@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "Table.html",
-    "href": "Table.html",
-    "title": "Table",
-    "section": "",
-    "text": "Col1\nCol2\nCol3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jessica Jaynes",
-    "section": "",
-    "text": "Welcome!\nI am an Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my CV."
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Jessica Jaynes",
@@ -70,10 +56,24 @@
     "text": "I am co-PI on the collaborative NSF HDR DSC data science grant (IIS-2123380) - Data Science Training and Practices: Preparing a Diverse Workforce via Academic and Industrial Partnership, in collaboration with University of California Irvine and Cypress College.\nCheck out The SoCal Data Science Program in the news:\n\nCSUF News Aricle\nNSF Award"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jessica Jaynes",
+    "section": "",
+    "text": "Welcome!\nI am an Professor of Statistics and Mathematics at California State University, Fullerton. As a first-generation college graduate, I earned a Ph.D. in Statistics from the University of California, Los Angeles. My research focuses on statistical methods and applications, experimental design, and survey design. With this, I have a strong passion for working with undergraduate students on various research projects. For more information take a look at my CV."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Table.html",
+    "href": "Table.html",
+    "title": "Table",
+    "section": "",
+    "text": "Col1\nCol2\nCol3"
   }
 ]
