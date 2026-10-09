@@ -1,1 +1,320 @@
-/* css styles */
+
+/* =========================================
+   JESSICA JAYNES - PERSONAL WEBSITE
+   ========================================= */
+
+/* COLOR PALETTE */
+
+:root {
+  --primary-navy: #234E70;
+  --accent-teal: #167D8D;
+  --soft-gray: #F5F7FA;
+  --dark-text: #30363B;
+  --border-color: #E3E7EC;
+
+  --bs-primary: #234E70;
+  --bs-primary-rgb: 35, 78, 112;
+  --bs-link-color: #234E70;
+  --bs-link-color-rgb: 35, 78, 112;
+  --bs-link-hover-color: #167D8D;
+  --bs-link-hover-color-rgb: 22, 125, 141;
+}
+
+/* GENERAL TYPOGRAPHY */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--dark-text);
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+}
+
+h2 {
+  font-weight: 650;
+}
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+/* PAGE WIDTH */
+
+#quarto-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main.content {
+  max-width: 100%;
+  padding: 0;
+}
+
+/* LINKS - OVERRIDE SIMPLEX */
+
+body a,
+body a:link,
+body a:visited,
+main a,
+main a:link,
+main a:visited,
+#quarto-content a,
+#quarto-content a:visited {
+  color: var(--primary-navy) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+body a:hover,
+main a:hover,
+#quarto-content a:hover {
+  color: var(--accent-teal) !important;
+  text-decoration: underline;
+}
+
+body a:focus-visible {
+  outline: 2px solid var(--accent-teal);
+  outline-offset: 3px;
+}
+
+/* NAVIGATION */
+
+.navbar {
+  border-bottom: 1px solid var(--border-color);
+}
+
+.navbar .navbar-brand {
+  font-weight: 600;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .nav-link.active {
+  color: var(--primary-navy) !important;
+}
+
+.navbar .nav-link.active {
+  font-weight: 600;
+}
+
+.navbar .nav-link:hover {
+  color: var(--accent-teal) !important;
+}
+
+/* HERO SECTION */
+
+.hero-section {
+  background: var(--soft-gray);
+  padding: 2rem 5% 0.75rem !important;
+  border-radius: 12px;
+  margin-top: 1rem;
+  margin-bottom: 0 !important;
+}
+
+.hero-columns {
+  align-items: center;
+}
+
+.hero-section h1 {
+  font-size: clamp(2.2rem, 4vw, 3rem);
+  font-weight: 700;
+  color: var(--dark-text);
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
+
+.hero-section h3 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--primary-navy);
+  margin-top: 1.5rem;
+  margin-bottom: 0.7rem;
+}
+
+.hero-section p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.hero-section a {
+  color: var(--primary-navy) !important;
+  font-weight: 500;
+}
+
+/* PROFILE PHOTO */
+
+.profile-photo {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0 !important;
+}
+
+.hero-section p:has(.profile-photo) {
+  margin-bottom: 0 !important;
+}
+
+/* CONTENT SECTIONS */
+
+.content-section {
+  padding: 3rem 5%;
+}
+
+.hero-section + .content-section {
+  padding-top: 1.25rem !important;
+}
+
+.content-section h2 {
+  font-size: 1.9rem;
+  font-weight: 650;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  color: var(--dark-text);
+}
+
+/* LEADERSHIP CARDS */
+
+.initiative-card {
+  background: #FFFFFF;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.7rem;
+  height: 100%;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.04);
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+}
+
+.initiative-card:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.initiative-card h3 {
+  font-size: 1.3rem;
+  font-weight: 650;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--primary-navy);
+}
+
+.initiative-card p {
+  font-size: 0.98rem;
+}
+
+.initiative-card a {
+  color: var(--primary-navy) !important;
+  font-weight: 600;
+}
+
+.initiative-card a:hover {
+  color: var(--accent-teal) !important;
+  text-decoration: underline;
+}
+
+/* SELECTED INITIATIVE DESCRIPTIONS */
+
+.initiative-card small {
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: #687782;
+  margin-top: 0.2rem;
+  margin-bottom: 1.1rem;
+}
+
+/* HIGHLIGHT CARDS */
+
+.highlight-card {
+  background: var(--soft-gray);
+  border-radius: 12px;
+  padding: 1.7rem;
+  height: 100%;
+}
+
+.highlight-card h3 {
+  font-size: 1.2rem;
+  font-weight: 650;
+  margin-top: 0;
+  color: var(--dark-text);
+}
+
+.highlight-card a {
+  color: var(--primary-navy) !important;
+}
+
+/* CONTACT SECTION */
+
+.contact-section {
+  background: var(--soft-gray);
+  padding: 3rem 5%;
+  margin: 2rem 0;
+  border-radius: 12px;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--dark-text);
+}
+
+.contact-section a {
+  color: var(--primary-navy) !important;
+  font-weight: 500;
+}
+
+/* FOOTER */
+
+.nav-footer {
+  font-size: 0.9rem;
+  color: #68737D;
+}
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 768px) {
+
+  .hero-section {
+    padding: 1.5rem 5% 1rem !important;
+  }
+
+  .hero-section h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero-section h3 {
+    font-size: 1.25rem;
+  }
+
+  .content-section {
+    padding: 2rem 5%;
+  }
+
+  .hero-section + .content-section {
+    padding-top: 1.5rem !important;
+  }
+
+  .content-section h2 {
+    font-size: 1.6rem;
+  }
+
+  .profile-photo {
+    max-width: 230px;
+    margin: 1.5rem auto 0 !important;
+  }
+
+  .initiative-card,
+  .highlight-card {
+    margin-bottom: 1rem;
+  }
+
+  .contact-section {
+    padding: 2rem 5%;
+  }
+}
